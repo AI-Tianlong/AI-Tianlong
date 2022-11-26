@@ -1,5 +1,5 @@
 <h2> Hi, I'm Tianlong AI! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/Jz7eUZut4DSl04bz2q/giphy.gif" width="380">
+<img align='right' src="https://media.giphy.com/media/Jz7eUZut4DSl04bz2q/giphy.gif" width="320">
 
 🛰  I’m interested in Deep Learning & Remote Sensing Image Processing & .....  
 
