@@ -7,7 +7,7 @@
 
 
 <!--代码猫动图-->
-<img align='right' src="https://media.giphy.com/media/Jz7eUZut4DSl04bz2q/giphy.gif" width="360">
+<img align='right' src="https://media.giphy.com/media/Jz7eUZut4DSl04bz2q/giphy.gif" width="330">
 
 ***🚀  These are my Repositories:***
 
