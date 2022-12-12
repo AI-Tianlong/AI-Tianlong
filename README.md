@@ -14,7 +14,8 @@
 <!--repositories 图标   https://shields.io/category/social-->
 [![SSVEP-OpenBCI](https://img.shields.io/badge/SSVEP--OpenBCI-%F0%9F%A7%A0-brightgreen)](https://github.com/AI-Tianlong/SSVEP-BCI-OpenBCI)
 [![useful-code](https://img.shields.io/badge/Useful--Tools-%F0%9F%92%BB-9cf)](https://github.com/AI-Tianlong/Useful-Tools)
-
+[![Cube-Recovery-Robot](https://img.shields.io/badge/Cube--Recovery--Robot%20-%F0%9F%A7%B8-yellow)](https://github.com/AI-Tianlong/Cube-Recovery-Robot)
+[![Smart-Bedroom](https://img.shields.io/badge/Smart--Bedroom-%F0%9F%8F%A1-orange)](https://github.com/AI-Tianlong/Smart-Bedroom)
 
 ![Tianlong AI's GitHub stats](https://github-readme-stats.vercel.app/api?username=AI-Tianlong)
 
