@@ -5,7 +5,6 @@
 <!--HomePage-->
 **Welcome to visit my HomePage** [![HOMEPAGE](https://img.shields.io/github/followers/AI-Tianlong?label=HomePage&style=social)](https://AI-Tianlong.github.io)
 
-
 <!--代码猫动图-->
 <img align='right' src="https://media.giphy.com/media/Jz7eUZut4DSl04bz2q/giphy.gif" width="330">
 
@@ -17,8 +16,14 @@
 [![Cube-Recovery-Robot](https://img.shields.io/badge/Cube--Recovery--Robot%20-%F0%9F%A7%B8-yellow)](https://github.com/AI-Tianlong/Cube-Recovery-Robot)
 [![Smart-Bedroom](https://img.shields.io/badge/Smart--Bedroom-%F0%9F%8F%A1-orange)](https://github.com/AI-Tianlong/Smart-Bedroom)
 
+![Tianlong AI's GitHub stats](https://github-readme-stats.vercel.app/api?username=AI-Tianlong)  <!--Github的Status-->
 
-![Tianlong AI's GitHub stats](https://github-readme-stats.vercel.app/api?username=AI-Tianlong)
-
-
-
+<!--  Github的Status🏆
+  [![trophy](https://github-profile-trophy.vercel.app/?username=AI-Tianlong&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy) 
+-->
+<!-- 黑色的
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=AI-Tianlong&count_private=true&theme=tokyonight&showicons=true)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=AI-Tianlong&langs_count=5&theme=tokyonight)]()
+<!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=AI-Tianlong&theme=light&hide_border=false) 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AI-Tianlong&theme=light&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+-->
