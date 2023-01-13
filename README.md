@@ -16,7 +16,7 @@
 [![Cube-Recovery-Robot](https://img.shields.io/badge/Cube--Recovery--Robot%20-%F0%9F%A7%B8-yellow)](https://github.com/AI-Tianlong/Cube-Recovery-Robot)
 [![Smart-Bedroom](https://img.shields.io/badge/Smart--Bedroom-%F0%9F%8F%A1-orange)](https://github.com/AI-Tianlong/Smart-Bedroom)
 
-![Tianlong AI's GitHub stats](https://github-readme-stats.vercel.app/api?username=AI-Tianlong)  <!--Github的Status-->
+![Tianlong AI's GitHub stats](https://github-readme-stats.vercel.app/api/?username=AI-Tianlong)  <!--Github的Status-->
 <!--  Github的Status🏆
   [![trophy](https://github-profile-trophy.vercel.app/?username=AI-Tianlong&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy) 
 -->
