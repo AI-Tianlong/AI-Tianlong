@@ -16,7 +16,7 @@
 [![Cube-Recovery-Robot](https://img.shields.io/badge/Cube--Recovery--Robot%20-%F0%9F%A7%B8-yellow)](https://github.com/AI-Tianlong/Cube-Recovery-Robot)
 [![Smart-Bedroom](https://img.shields.io/badge/Smart--Bedroom-%F0%9F%8F%A1-orange)](https://github.com/AI-Tianlong/Smart-Bedroom)
 
-***🐈 These are my favorite Repositories:***  
+***🐈 My frequently used Repositories:***  
 | [OpenMMLab](https://github.com/open-mmlab) | [mmSeg](https://github.com/open-mmlab/mmsegmentation/tree/dev-1.x) | [mmDet](https://github.com/open-mmlab/mmdetection/tree/3.x) | [mmYOLO](https://github.com/open-mmlab/mmyolo) |
 <!-- |:---:|:---:|:---:|:---:| -->
 
