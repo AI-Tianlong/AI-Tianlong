@@ -17,7 +17,7 @@
 [![Smart-Bedroom](https://img.shields.io/badge/Smart--Bedroom-%F0%9F%8F%A1-orange)](https://github.com/AI-Tianlong/Smart-Bedroom)
 
 ***🐈 My frequently used Repositories:***  
-| [OpenMMLab](https://github.com/open-mmlab) | [mmSeg](https://github.com/open-mmlab/mmsegmentation/tree/dev-1.x) | [mmDet](https://github.com/open-mmlab/mmdetection/tree/3.x) | [mmYOLO](https://github.com/open-mmlab/mmyolo) | [mmSIG](https://github.com/vansin/mmsig)
+| [OpenMMLab](https://github.com/open-mmlab) | [mmSeg](https://github.com/open-mmlab/mmsegmentation/tree/dev-1.x) | [mmDet](https://github.com/open-mmlab/mmdetection/tree/3.x) | [mmYOLO](https://github.com/open-mmlab/mmyolo) | [mmSIG](https://github.com/vansin/mmsig) |
 <!-- |:---:|:---:|:---:|:---:| -->
 
 ![Tianlong AI's GitHub stats](https://github-readme-stats.vercel.app/api/?username=AI-Tianlong)  <!--Github的Status-->
