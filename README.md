@@ -17,11 +17,7 @@
 [![Smart-Bedroom](https://img.shields.io/badge/Smart--Bedroom-%F0%9F%8F%A1-orange)](https://github.com/AI-Tianlong/Smart-Bedroom)
 
 ***🐈 My frequently used Repositories:***  
-table {
-    width: 100%;
-    border-collapse: collapse;
-    text-align: center; /* 设置表格中的文本水平居中对齐 */
-}
+<html>
 <table>
   <tr>
     <td><a href='https://github.com/open-mmlab'>OpenMMLab</a></td>
@@ -37,6 +33,7 @@ table {
     <td><a href='https://github.com/open-mmlab/mmsig'>mmSIG</a></td>
   </tr>
 </table>
+<\html>
 
 
 ![Tianlong AI's GitHub stats](https://github-readme-stats.vercel.app/api/?username=AI-Tianlong)  <!--Github的Status-->
