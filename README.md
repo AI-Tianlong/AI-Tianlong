@@ -17,8 +17,27 @@
 [![Smart-Bedroom](https://img.shields.io/badge/Smart--Bedroom-%F0%9F%8F%A1-orange)](https://github.com/AI-Tianlong/Smart-Bedroom)
 
 ***🐈 My frequently used Repositories:***  
-| [OpenMMLab](https://github.com/open-mmlab) | [mmSeg](https://github.com/open-mmlab/mmsegmentation/tree/dev-1.x) | [mmDet](https://github.com/open-mmlab/mmdetection/tree/main) | [mmYOLO](https://github.com/open-mmlab/mmyolo) | [mmSIG](https://github.com/open-mmlab/OpenMMLabCamp/tree/mmsig) | [mmDeploy](https://github.com/open-mmlab/mmdeploy) |
-<!-- |:---:|:---:|:---:|:---:| -->
+table {
+    width: 100%;
+    border-collapse: collapse;
+    text-align: center; /* 设置表格中的文本水平居中对齐 */
+}
+<table>
+  <tr>
+    <td><a href='https://github.com/open-mmlab'>OpenMMLab</a></td>
+    <td><a href='https://github.com/open-mmlab/mmsegmentation'>mmSeg</a></td>
+    <td><a href='https://github.com/open-mmlab/mmdetection'>mmDet</a></td>
+    <td><a href='https://github.com/open-mmlab/mmyolo'>mmYOLO</a></td>
+    <td><a href='https://github.com/open-mmlab/mmdeploy'>mmdeploy</a></td>
+</tr>
+  <tr>
+    <td><a href='https://github.com/open-mmlab/mmcv'>mmCV</a></td>
+    <td><a href='https://github.com/open-mmlab/mmpretrain'>mmpretrain</a></td>
+    <td><a href='https://github.com/open-mmlab'>mmYOLO</a></td>
+    <td><a href='https://github.com/open-mmlab/mmsig'>mmSIG</a></td>
+  </tr>
+</table>
+
 
 ![Tianlong AI's GitHub stats](https://github-readme-stats.vercel.app/api/?username=AI-Tianlong)  <!--Github的Status-->
 <!--  Github的Status🏆
