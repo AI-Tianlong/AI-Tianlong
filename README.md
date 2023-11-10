@@ -33,7 +33,7 @@
     <td><a href='https://github.com/open-mmlab/mmsig'>mmSIG</a></td>
   </tr>
 </table>
-<\html>
+</html>
 
 
 ![Tianlong AI's GitHub stats](https://github-readme-stats.vercel.app/api/?username=AI-Tianlong)  <!--Github的Status-->
