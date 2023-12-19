@@ -28,7 +28,7 @@
 </tr>
   <tr>
     <td><a href='https://github.com/open-mmlab/mmcv'>MMCV</a></td>
-    <td><a href='https://github.com/open-mmlab/mmPretrain'>mmpretrain</a></td>
+    <td><a href='https://github.com/open-mmlab/mmpretrain'>mmPretrain</a></td>
     <td><a href='https://github.com/open-mmlab'>mmYOLO</a></td>
     <td><a href='https://github.com/open-mmlab/mmsig'>mmSIG</a></td>
   </tr>
