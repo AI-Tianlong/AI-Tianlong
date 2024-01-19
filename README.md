@@ -16,6 +16,7 @@
 [![Cube-Recovery-Robot](https://img.shields.io/badge/Cube--Recovery--Robot%20-%F0%9F%A7%B8-yellow)](https://github.com/AI-Tianlong/Cube-Recovery-Robot)
 [![Smart-Bedroom](https://img.shields.io/badge/Smart--Bedroom-%F0%9F%8F%A1-orange)](https://github.com/AI-Tianlong/Smart-Bedroom)
 
+<!--我最常用的算法库Repo 表格-->
 ***🐈 My frequently used Repositories:***  
 <html>
 <table>
@@ -36,11 +37,12 @@
 </table>
 </html>
 
+<!--我最喜欢的SOTA Model 表格-->
 ***🐈 My Favorite SOTA Model:***  
 <html>
 <table>
   <tr>
-    <td><a href='https://github.com/open-mmlab'>ViT-Adapter</a></td>
+    <td><a href='https://github.com/czczup/ViT-Adapter'>ViT-Adapter</a></td>
     <td><a href='https://github.com/microsoft/unilm/tree/master/beit2'>BEiT2</a></td>
 </tr>
 </table>
