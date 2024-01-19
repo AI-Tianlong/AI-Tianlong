@@ -36,6 +36,15 @@
 </table>
 </html>
 
+***🐈 My Favorite SOTA Model:***  
+<html>
+<table>
+  <tr>
+    <td><a href='https://github.com/open-mmlab'>ViT-Adapter</a></td>
+    <td><a href='https://github.com/microsoft/unilm/tree/master/beit2'>BEiT2</a></td>
+</tr>
+</table>
+</html>
 
 ![Tianlong AI's GitHub stats](https://github-readme-stats.vercel.app/api/?username=AI-Tianlong)  <!--Github的Status-->
 <!--  Github的Status🏆
