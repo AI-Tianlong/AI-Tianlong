@@ -18,7 +18,8 @@
 
 <!--我最常用的算法库Repo 表格-->
 ***🐈 My frequently used Repositories:***  
-![我的⭐](https://github.com/AI-Tianlong?tab=stars)  
+
+[我最喜爱的⭐](https://github.com/AI-Tianlong?tab=stars)  
 <html>
 <table>
   <tr>
