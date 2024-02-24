@@ -18,6 +18,7 @@
 
 <!--我最常用的算法库Repo 表格-->
 ***🐈 My frequently used Repositories:***  
+![我的⭐](https://github.com/AI-Tianlong?tab=stars)  
 <html>
 <table>
   <tr>
@@ -44,6 +45,8 @@
   <tr>
     <td><a href='https://github.com/czczup/ViT-Adapter'>ViT-Adapter</a></td>
     <td><a href='https://github.com/microsoft/unilm/tree/master/beit2'>BEiT2</a></td>
+    <td><a href='https://github.com/gee-community/geemap'>geemap</a></td>  
+    <td><a href='https://github.com/google/earthengine-community'>earthengine-community</a></td>  
 </tr>
 </table>
 </html>
