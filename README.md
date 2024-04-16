@@ -11,11 +11,11 @@
 ***🚀  These are my Repositories:***
 
 <!--repositories 图标   https://shields.io/category/social-->
-[![SSVEP-OpenBCI](https://img.shields.io/badge/SSVEP--OpenBCI-%F0%9F%A7%A0-brightgreen)](/SSVEP-BCI-OpenBCI)
-[![useful-code](https://img.shields.io/badge/Useful--Tools-%F0%9F%92%BB-9cf)](/Useful-Tools)
-[![ATL_Tools_pypi](https://img.shields.io/github/stars/AI-Tianlong/ATL_Tools_pypi?logo=gdal&label=ATL_Tools)](/ATL_Tools_pypi)
-[![Cube-Recovery-Robot](https://img.shields.io/badge/Cube--Recovery--Robot%20-%F0%9F%A7%B8-yellow)](/Cube-Recovery-Robot)
-[![Smart-Bedroom](https://img.shields.io/badge/Smart--Bedroom-%F0%9F%8F%A1-orange)](/Smart-Bedroom)
+[![SSVEP-OpenBCI](https://img.shields.io/badge/SSVEP--OpenBCI-%F0%9F%A7%A0-brightgreen)](https://github.com/AI-Tianlong/SSVEP-BCI-OpenBCI)
+[![useful-code](https://img.shields.io/badge/Useful--Tools-%F0%9F%92%BB-9cf)](https://github.com/AI-Tianlong/Useful-Tools)
+[![Cube-Recovery-Robot](https://img.shields.io/badge/Cube--Recovery--Robot%20-%F0%9F%A7%B8-yellow)](https://github.com/AI-Tianlong/Cube-Recovery-Robot)
+[![Smart-Bedroom](https://img.shields.io/badge/Smart--Bedroom-%F0%9F%8F%A1-orange)](https://github.com/AI-Tianlong/Smart-Bedroom)
+[![ATL_Tools_pypi](https://img.shields.io/github/stars/AI-Tianlong/ATL_Tools_pypi?style=plastic&logo=gdal&label=ATL_Tools&color=%234dc81f)](https://github.com/AI-Tianlong/ATL_Tools_pypi)
 
 <!--我最常用的算法库Repo 表格-->
 ***🐈 My frequently used Repositories:***  
