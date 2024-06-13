@@ -78,7 +78,7 @@
 
 <div align="center">
     <img src="https://github.com/AI-Tianlong/AI-Tianlong/assets/50650583/d58d0264-225f-48fb-99d4-210d60cc9db8" alt="获奖截图" width="50%">
-    <img src="https://github.com/AI-Tianlong/AI-Tianlong/assets/50650583/f398b445-513a-4486-9694-86e70ce3b428" alt="获奖截图" height="45%"> 
+    <img src="https://github.com/AI-Tianlong/AI-Tianlong/assets/50650583/f398b445-513a-4486-9694-86e70ce3b428" alt="获奖截图" width="80%"> 
 </div>
 <!--  Github的Status🏆
   [![trophy](https://github-profile-trophy.vercel.app/?username=AI-Tianlong&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy) 
