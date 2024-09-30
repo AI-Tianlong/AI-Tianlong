@@ -49,9 +49,11 @@
 <table>
   <tr>
     <td><a href='https://github.com/czczup/ViT-Adapter'>ViT-Adapter</a></td>
+    <td><a href='https://github.com/facebookresearch/mae'>MAE</a></td>
     <td><a href='https://github.com/microsoft/unilm/tree/master/beit2'>BEiT2</a></td>
     <td><a href='https://github.com/gee-community/geemap'>geemap</a></td>  
-    <td><a href='https://github.com/google/earthengine-community'>earthengine-community</a></td>  
+    <td><a href='https://github.com/google/earthengine-community'>earthengine-community</a></td>
+    
 </tr>
 </table>
 </html>
