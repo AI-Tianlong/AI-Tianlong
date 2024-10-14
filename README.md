@@ -64,7 +64,7 @@
 <table>
   <tr>
     <td><a href='https://github.com/AI-Tianlong/mmsegmentation/tree/AI-Tianlong/Vit-Adapter'>AI-Tianlong-MMSEG</a></td>
-    <td><a href='https://github.com/AI-Tianlong/mmpretrain/tree/AI-Tianlong/Vit-Adapter'>AI-Tianlong-mmpretrain</a></td>
+    <td><a href='https://github.com/AI-Tianlong/mmpretrain/tree/AI-Tianlong/main'>AI-Tianlong-mmpretrain</a></td>
     <td><a href='https://github.com/Jack-bo1220/Awesome-Remote-Sensing-Foundation-Models'>Awesome-Remote-Sensing-Foundation-Models</a></td>
     
 </tr>
