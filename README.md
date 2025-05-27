@@ -9,7 +9,7 @@
 **Welcome to visit my HomePage** [![HOMEPAGE](https://img.shields.io/github/followers/AI-Tianlong?label=HomePage&style=social)](https://AI-Tianlong.github.io)
 
 ***📄  These are my Works:***  
-[【HieraRS】](https://github.com/AI-Tianlong/HieraRS)
+[【HieraRS】](https://github.com/AI-Tianlong/HieraRS) [【TransLU】](https://github.com/AI-Tianlong/TransLU)  
 
 ***🚀  These are my Repositories:***
 
