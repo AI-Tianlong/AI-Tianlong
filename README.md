@@ -1,7 +1,7 @@
 <h2> Hi, I'm  -  Tianlong Ai   -    <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
 <!--代码猫动图-->
-<img align='right' src="https://media.giphy.com/media/Jz7eUZut4DSl04bz2q/giphy.gif" width="350">
+<img align='right' src="https://media.giphy.com/media/Jz7eUZut4DSl04bz2q/giphy.gif" width="300">
 
 
 🛰  I’m interested in ***Deep Learning*** & ***Remote Sensing Image Processing***.  
