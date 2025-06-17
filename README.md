@@ -4,15 +4,15 @@
 <img align='right' src="https://media.giphy.com/media/Jz7eUZut4DSl04bz2q/giphy.gif" width="350">
 
 
-🛰  I’m interested in ***Deep Learning*** & ***Remote Sensing Image Processing*** & .....  
-<!--HomePage-->
-**Welcome to visit my HomePage** [![HOMEPAGE](https://img.shields.io/github/followers/AI-Tianlong?label=HomePage&style=social)](https://AI-Tianlong.github.io)
-
-***📝 My Research Projects:***
+🛰  I’m interested in ***Deep Learning*** & ***Remote Sensing Image Processing***.  
+<!--
+Welcome to visit my HomePage [![HOMEPAGE](https://img.shields.io/github/followers/AI-Tianlong?label=HomePage&style=social)](https://AI-Tianlong.github.io)
+-->
+### *📝 My Research Projects:*
 - [**【HieraRS】**: A Hierarchical Segmentation Paradigm for Remote Sensing Enabling Multi-Granularity Interpretation and Cross-Domain Transfer](https://github.com/AI-Tianlong/HieraRS) [![HieraRS stars](https://img.shields.io/github/stars/AI-Tianlong/HieraRS)](https://github.com/AI-Tianlong/HieraRS)
 
 
-***🚀  My Repositories:***
+### *🚀  My Repositories:*
 
 <!--repositories 图标   https://shields.io/category/social-->
 [![SSVEP-OpenBCI](https://img.shields.io/badge/SSVEP--OpenBCI-%F0%9F%A7%A0-brightgreen)](https://github.com/AI-Tianlong/SSVEP-BCI-OpenBCI)
@@ -21,9 +21,17 @@
 [![Smart-Bedroom](https://img.shields.io/badge/Smart--Bedroom-%F0%9F%8F%A1-orange)](https://github.com/AI-Tianlong/Smart-Bedroom)
 [![ATL_Tools_pypi](https://img.shields.io/github/stars/AI-Tianlong/ATL_Tools_pypi?style=plastic&logo=gdal&label=ATL_Tools&color=%234dc81f)](https://github.com/AI-Tianlong/ATL_Tools_pypi)
 
+### *🏆 Awards & Achievements:*   
+🥉[【2024 第二届高分对地观测应用技术创新大赛 三等奖】](https://www.cpeos.org.cn/GFSAIT2024/#/)  
+🏆[【2023 OpenMMLab OUTSTANDING CONTRIBUTOR 优秀贡献者 1/3】](https://openmmlab.com/community/awards-2023)  
+🥉[【2024 ISPRS多模态遥感应用算法智能解译大赛 水面提取赛道 3rd】](https://mp.weixin.qq.com/s/t1-gMEWHaHQJdUoEDT-8gg)  
+🥈[【2022 遥感影像智能处理算法大赛 遥感影像语义分割 二等奖】](http://rsipac.whu.edu.cn/notice_2022)   
+🥇[【2022 首  届 OpenMMLab Code Camp 一等奖】](https://mp.weixin.qq.com/s/89qzKYAHqtPC0WSYnd8SCA)  
+ 🎖️[【2023 第二届 OpenMMLab Code Camp 优秀奖】](https://mp.weixin.qq.com/s/89qzKYAHqtPC0WSYnd8SCA)  
+
 
 <!--我最常用的算法库Repo 表格-->
-***🐈 My Favorite Repos:***  
+### *🐈 My Favorite Repos:*
 
 [我最喜爱的⭐](https://github.com/AI-Tianlong?tab=stars)  
 <html>
@@ -45,8 +53,8 @@
 </table>
 </html>
 
-<!--我最喜欢的SOTA Model 表格-->
-***🐈 My Favorite SOTA Model:***  
+<!-- 我最喜欢的SOTA Model 表格
+### *🐈 My Favorite SOTA Model:** 
 <html>
 <table>
   <tr>
@@ -59,6 +67,7 @@
 </tr>
 </table>
 </html>
+-->
 
 <!--我自己 Fork 的 Repo 表格-->
 ***🧐 My Fork Repo:***  
@@ -75,13 +84,6 @@
 
 ![Tianlong AI's GitHub stats](https://github-readme-stats.vercel.app/api/?username=AI-Tianlong)  <!--Github的Status-->
 
-***🏆 Awards & Achievements:***   
-🥉[【2024 第二届高分对地观测应用技术创新大赛 三等奖】](https://www.cpeos.org.cn/GFSAIT2024/#/)  
-🏆[【2023 OpenMMLab OUTSTANDING CONTRIBUTOR 优秀贡献者 1/3】](https://openmmlab.com/community/awards-2023)  
-🥉[【2024 ISPRS多模态遥感应用算法智能解译大赛 水面提取赛道 3rd】](https://mp.weixin.qq.com/s/t1-gMEWHaHQJdUoEDT-8gg)  
-🥈[【2022 遥感影像智能处理算法大赛 遥感影像语义分割 二等奖】](http://rsipac.whu.edu.cn/notice_2022)   
-🥇[【2022 首  届 OpenMMLab Code Camp 一等奖】](https://mp.weixin.qq.com/s/89qzKYAHqtPC0WSYnd8SCA)  
- 🎖️[【2023 第二届 OpenMMLab Code Camp 优秀奖】](https://mp.weixin.qq.com/s/89qzKYAHqtPC0WSYnd8SCA)  
 
 
 
