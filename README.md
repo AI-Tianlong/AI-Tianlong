@@ -8,11 +8,11 @@
 <!--HomePage-->
 **Welcome to visit my HomePage** [![HOMEPAGE](https://img.shields.io/github/followers/AI-Tianlong?label=HomePage&style=social)](https://AI-Tianlong.github.io)
 
-***📄  These are my Works:***  
-[【HieraRS】](https://github.com/AI-Tianlong/HieraRS)[![HieraRS stars](https://img.shields.io/github/stars/AI-Tianlong/HieraRS)](https://github.com/AI-Tianlong/HieraRS)
+***📝 My Research Projects:***
+- [**【HieraRS】**: A Hierarchical Segmentation Paradigm for Remote Sensing Enabling Multi-Granularity Interpretation and Cross-Domain Transfer](https://github.com/AI-Tianlong/HieraRS) [![HieraRS stars](https://img.shields.io/github/stars/AI-Tianlong/HieraRS)](https://github.com/AI-Tianlong/HieraRS)
 
 
-***🚀  These are my Repositories:***
+***🚀  My Repositories:***
 
 <!--repositories 图标   https://shields.io/category/social-->
 [![SSVEP-OpenBCI](https://img.shields.io/badge/SSVEP--OpenBCI-%F0%9F%A7%A0-brightgreen)](https://github.com/AI-Tianlong/SSVEP-BCI-OpenBCI)
@@ -23,7 +23,7 @@
 
 
 <!--我最常用的算法库Repo 表格-->
-***🐈 My frequently used Repositories:***  
+***🐈 My Favorite Repos:***  
 
 [我最喜爱的⭐](https://github.com/AI-Tianlong?tab=stars)  
 <html>
