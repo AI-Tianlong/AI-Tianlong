@@ -38,8 +38,8 @@ Welcome to visit my HomePage [![HOMEPAGE](https://img.shields.io/github/follower
 <table>
   <tr>
     <td><a href='https://github.com/open-mmlab'>OpenMMLab</a></td>
-    <td><a href='https://github.com/open-mmlab/mmsegmentation'>mmSeg</a></td>
-    <td><a href='https://github.com/open-mmlab/mmdetection'>mmDet</a></td>
+    <td><a href='https://github.com/open-mmlab/mmsegmentation'>mmseg</a></td>
+    <td><a href='https://github.com/open-mmlab/mmdetection'>mmdet</a></td>
     <td><a href='https://github.com/open-mmlab/mmyolo'>mmYOLO</a></td>
     <td><a href='https://github.com/open-mmlab/mmdeploy'>mmdeploy</a></td>
 </tr>
