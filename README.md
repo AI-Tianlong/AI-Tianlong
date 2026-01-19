@@ -10,7 +10,7 @@ Welcome to visit my HomePage [![HOMEPAGE](https://img.shields.io/github/follower
 -->
 ### *📝 My Research Projects:*
 - [**【HieraRS】**: A Hierarchical Segmentation Paradigm for Remote Sensing Enabling Multi-Granularity Interpretation and Cross-Domain Transfer](https://github.com/AI-Tianlong/HieraRS) [![HieraRS stars](https://img.shields.io/github/stars/AI-Tianlong/HieraRS)](https://github.com/AI-Tianlong/HieraRS)
-
+- [**【Coast-CD】**:Coast-CD: A Physics-Aware Network for Coastal Change Detection](https://github.com/AI-Tianlong/Coast-CD)[![Coast-CD stars](https://img.shields.io/github/stars/AI-Tianlong/Coast-CD)](https://github.com/AI-Tianlong/Coast-CD)
 
 ### *🚀  My Repositories:*
 
